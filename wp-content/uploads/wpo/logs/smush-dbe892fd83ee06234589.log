@@ -357,3 +357,66 @@
 [2024-02-13 18:55:48 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
 [2024-02-13 18:55:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
 [2024-02-13 20:53:05 : INFO] - Pruning the smush log file 
+[2024-03-05 15:47:41 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : March 05, 2024 03:47:41 
+[2024-03-05 15:47:43 : INFO] - Re_Smush_It_Task with attachment ID : 2258, autocreated on : March 05, 2024 03:47:43 
+[2024-03-05 15:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 2259, autocreated on : March 05, 2024 03:47:45 
+[2024-03-05 15:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 2260, autocreated on : March 05, 2024 03:47:47 
+[2024-03-05 15:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 2261, autocreated on : March 05, 2024 03:47:49 
+[2024-03-05 15:47:51 : INFO] - Re_Smush_It_Task with attachment ID : 2262, autocreated on : March 05, 2024 03:47:51 
+[2024-03-05 15:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 2263, autocreated on : March 05, 2024 03:47:53 
+[2024-03-05 15:53:59 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2024-03-05 15:53:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-03-05 15:53:59 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-03-05 15:53:59 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2024-03-05 15:53:59 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : March 05, 2024 03:47:41 
+[2024-03-05 15:53:59 : INFO] - File: science_2831796.png, Compression quality: 60 
+[2024-03-05 15:54:00 : INFO] - Backing up the original image - 2024/03/science_2831796-updraft-pre-smush-original.png 
+[2024-03-05 15:54:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/science_2831796.png.The file was compressed from 35.33 KB to 13.63 KB, saving 61.4 percent, using WP-Optimize 
+[2024-03-05 15:54:01 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2024-03-05 15:54:01 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2024-03-05 15:54:01 : INFO] - Re_Smush_It_Task with attachment ID : 2258, autocreated on : March 05, 2024 03:47:43 
+[2024-03-05 15:54:01 : INFO] - File: github_2504911.png, Compression quality: 60 
+[2024-03-05 15:54:02 : INFO] - Backing up the original image - 2024/03/github_2504911-updraft-pre-smush-original.png 
+[2024-03-05 15:54:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/github_2504911.png.The file was compressed from 26.79 KB to 10.84 KB, saving 59.52 percent, using WP-Optimize 
+[2024-03-05 15:54:02 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2024-03-05 15:54:02 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2024-03-05 15:54:02 : INFO] - Re_Smush_It_Task with attachment ID : 2259, autocreated on : March 05, 2024 03:47:45 
+[2024-03-05 15:54:02 : INFO] - File: js_5968292.png, Compression quality: 60 
+[2024-03-05 15:54:03 : INFO] - Backing up the original image - 2024/03/js_5968292-updraft-pre-smush-original.png 
+[2024-03-05 15:54:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:03 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/js_5968292.png.The file was compressed from 10.88 KB to 5.52 KB, saving 49.29 percent, using WP-Optimize 
+[2024-03-05 15:54:03 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2024-03-05 15:54:03 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2024-03-05 15:54:03 : INFO] - Re_Smush_It_Task with attachment ID : 2260, autocreated on : March 05, 2024 03:47:47 
+[2024-03-05 15:54:03 : INFO] - File: social_11516361.png, Compression quality: 60 
+[2024-03-05 15:54:04 : INFO] - Backing up the original image - 2024/03/social_11516361-updraft-pre-smush-original.png 
+[2024-03-05 15:54:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/social_11516361.png.The file was compressed from 16.62 KB to 8.24 KB, saving 50.42 percent, using WP-Optimize 
+[2024-03-05 15:54:04 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2024-03-05 15:54:04 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2024-03-05 15:54:04 : INFO] - Re_Smush_It_Task with attachment ID : 2261, autocreated on : March 05, 2024 03:47:49 
+[2024-03-05 15:54:04 : INFO] - File: html_1051277.png, Compression quality: 60 
+[2024-03-05 15:54:05 : INFO] - Backing up the original image - 2024/03/html_1051277-updraft-pre-smush-original.png 
+[2024-03-05 15:54:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:05 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/html_1051277.png.The file was compressed from 13.41 KB to 6.96 KB, saving 48.11 percent, using WP-Optimize 
+[2024-03-05 15:54:05 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2024-03-05 15:54:05 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2024-03-05 15:54:06 : INFO] - Re_Smush_It_Task with attachment ID : 2262, autocreated on : March 05, 2024 03:47:51 
+[2024-03-05 15:54:06 : INFO] - File: elementor_5968699.png, Compression quality: 60 
+[2024-03-05 15:54:07 : INFO] - Backing up the original image - 2024/03/elementor_5968699-updraft-pre-smush-original.png 
+[2024-03-05 15:54:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/elementor_5968699.png.The file was compressed from 12.59 KB to 5.31 KB, saving 57.84 percent, using WP-Optimize 
+[2024-03-05 15:54:07 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2024-03-05 15:54:07 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2024-03-05 15:54:07 : INFO] - Re_Smush_It_Task with attachment ID : 2263, autocreated on : March 05, 2024 03:47:53 
+[2024-03-05 15:54:07 : INFO] - File: wordpress_174881.png, Compression quality: 60 
+[2024-03-05 15:54:09 : INFO] - Backing up the original image - 2024/03/wordpress_174881-updraft-pre-smush-original.png 
+[2024-03-05 15:54:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-05 15:54:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\Portfolio/wp-content/uploads/2024/03/wordpress_174881.png.The file was compressed from 16.35 KB to 16.35 KB, saving 0 percent, using WP-Optimize 
+[2024-03-05 15:54:09 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2024-03-05 15:54:09 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-03-05 15:54:09 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2024-03-05 15:54:09 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-03-05 15:54:09 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
